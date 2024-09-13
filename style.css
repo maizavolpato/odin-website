@@ -1,0 +1,211 @@
+
+
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero{
+    background: #1F2937;
+    padding-bottom: 50px;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+.hero-main{
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;   
+}
+
+.hero3{
+    width: 400px;
+    justify-content: flex-start;
+    padding: 10px;
+    margin: 0; 
+}
+.hero2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+    margin: 28px;
+    padding: 28px;
+    
+}
+
+.button1{
+    background-color: #1E90FF;
+    color: #e5e7eb;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+}
+
+a,
+.header-logo,
+.content,
+.hero-secondary{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 10px;
+}
+
+.hero-secondary{
+    background: grey;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-part{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.square1{
+    width: 150px;
+    height: 150px;
+    border: solid #1E90FF;
+    border-width: 4px;
+    border-radius: 12px;
+}
+
+.square2{
+    width: 150px;
+    height: 150px;
+    border: solid #1E90FF;
+    border-width: 4px;
+    border-radius: 12px;
+}
+
+.square3{
+    width: 150px;
+    height: 150px;
+    border: solid #1E90FF;
+    border-width: 4px;
+    border-radius: 12px;
+}
+
+.square4{
+    width: 150px;
+    height: 150px;
+    border: solid #1E90FF;
+    border-width: 4px;
+    border-radius: 12px;
+}
+
+.square{
+    display: flex;
+    justify-content: center;
+    gap: 44px;
+}
+
+.second-text{
+    width: 140px;
+    text-align: center;
+}
+
+.text-square{
+    display: flex;
+    justify-content: center;
+    gap: 62px;
+    margin: 6px;
+    padding-bottom: 50px;
+}
+
+.text-quote{
+    background: #e5e7eb ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+}
+
+.quote{
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    background: #e5e7eb ;
+    text-align:justify;
+    width: 800px;
+    
+}
+
+.autor-quote{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    color: #1F2937;
+    width: 750px;
+    text-align: right;
+
+}
+
+.third-part{
+    background: #1E90FF;
+    border-radius: 12px;
+    width: 900px;
+    margin: 50px 220px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.third-title{
+    color: #e5e7eb;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.third-text{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.button2{
+    background-color: #1E90FF;
+    color: #e5e7eb;
+    border: solid #e5e7eb;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+}
+
+.title-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer{
+    background: #1F2937;
+    color: #e5e7eb;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
